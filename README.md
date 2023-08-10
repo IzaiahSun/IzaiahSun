@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Ph.D. student @ Nanyang Technological University.
+
+I'm currently focus on program analysis, vulnerability detection and other interesting things!
+
 <!--
 **IzaiahSun/IzaiahSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
